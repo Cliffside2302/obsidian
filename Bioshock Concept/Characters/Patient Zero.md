@@ -1,0 +1,1 @@
+Someone who is destined to help the MC but as the story goes on, shows the first signs of ADAM sickness and becomes the first ever splicer.

@@ -1,0 +1,1 @@
+Small machine gun with a 50-round magazine. Low damage high recoil.

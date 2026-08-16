@@ -1,0 +1,1 @@
+Rather luxurious, with water flowing everywhere, live corals on the walls and colourful palette.

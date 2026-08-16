@@ -1,0 +1,1 @@
+At level 2; Releases an electric shock when reloading.

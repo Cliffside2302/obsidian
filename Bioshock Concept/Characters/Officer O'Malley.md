@@ -1,0 +1,1 @@
+Detective at the [[Rapture Police Department]] RPD, 9 to 5 job, has a 5-year-old kid and a Wife (Rose), in his 30s. Alongside Sullivan, he is investigating the smuggling ring of Frank Fontaine. Together with a fellow Policeman SULLIVAN, he has caught the smuggler TIMMY H and is interrogating him.

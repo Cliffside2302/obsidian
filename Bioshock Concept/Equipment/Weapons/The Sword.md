@@ -1,0 +1,1 @@
+Sword that can be drenched in Adam and given special status effects with Plasmids. Burning sword or electrifying menace. Telekinesis improves block ability and force of impact.

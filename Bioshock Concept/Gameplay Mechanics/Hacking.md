@@ -1,0 +1,1 @@
+Have an NPC in the story introduce the player to Hacking. Hacking is a small minigame that opens doors, lowers prices at vending machines and lets you choose your own music at the jukebox.

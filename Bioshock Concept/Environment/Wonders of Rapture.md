@@ -1,0 +1,25 @@
+Welcome to [[Rapture]]! This tour guide will provide you with the most known landmarks and points of interest in Rapture.
+
+Locations:
+
+- [[Angler's Inn]]
+- [[Apollo Square]]
+- [[Archimedes Centre]]
+- [[Aventine Hotel]]
+- [[Cigar Lounge]]
+- [[Coalescent Springs]]
+- [[Coral Bar]]
+- [[Fluorescent Blooms]]
+- [[Genetic Horizons]]
+- [[Hydrosphere]]
+- [[Kashmir Restaurant]]
+- [[Kingsley Arcade]]
+- [[Palmetto]]
+- [[Port Neptune]]
+- [[Poseidon Plaza]]
+- [[Sir Prize Games of Chance]]
+- [[Sunken Treasures]]
+- [[The Aegean]]
+- [[The Black Label Lounge]]
+- [[Welcome Centre]]
+- [[The Lighthouse]]

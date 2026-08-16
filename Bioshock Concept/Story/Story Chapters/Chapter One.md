@@ -1,0 +1,4 @@
+A Melee weapon will lie in the vicinity to pick up.
+Player is required to pick up the [[Radio]].
+We will pass an information stand where we can pick up a [[Wonders of Rapture]] Tour Guide that includes your first [[Map]] and a few landmarks/secrets to discover in the first level in [[Rapture]]. While following the beforementioned guide, we get pulled into an alley by some shady looking dudes. We use a crowbar to defend ourselves because someone was just recently repairing the pipes nearby.
+Slender through the alleys of the city and find yourself in awe of the architectural wonders. I saw an info stand and decided to take a look. They gave me a tour guide which was filled with stuff to do, sightseeing and even date ideas. After wandering around for a bit more and seeing all the insane possibilities that were founded by ADAM. Again I look at the contact card and ask a local to guide the way.

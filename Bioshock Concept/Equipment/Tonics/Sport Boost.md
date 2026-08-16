@@ -1,0 +1,1 @@
+Increased movement speed and meelee recovery speed.

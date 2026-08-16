@@ -1,0 +1,1 @@
+Equipped with [[Human Inferno]]. Sets himself on fire to fight the Player.

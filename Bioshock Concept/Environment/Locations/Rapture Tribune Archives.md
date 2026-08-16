@@ -1,0 +1,1 @@
+Multiple rooms full of archived newspaper articles that have been written. Every single issue of the Rapture Tribune has been stored here if needed.

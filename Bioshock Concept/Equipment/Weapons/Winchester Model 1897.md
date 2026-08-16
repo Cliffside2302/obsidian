@@ -1,0 +1,1 @@
+12 Gauge Pump action Shotgun. Dragon’s Breath rounds exist that spray fire on your enemies.

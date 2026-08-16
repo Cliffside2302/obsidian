@@ -1,0 +1,1 @@
+Small Revolver with a 6-round magazine.

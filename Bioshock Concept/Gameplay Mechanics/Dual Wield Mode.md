@@ -1,0 +1,1 @@
+Through [[Plasmid Ads]] and [[Public service announcements]], the player gets new ideas for plasmid and weapon combos. Plasmids with primary/alternate Fire Mode and can be equipped in an unlockable [[Dual Wield Mode]] which allows the player to wield 2 Plasmids at once instead of a [[Weapon]]and a [[Plasmid]]. This induces new combinations for [[Elemental Effects]].

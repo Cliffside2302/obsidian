@@ -1,0 +1,1 @@
+Criminal Scum as [[Andrew Ryan]] likes to call them are citizens of [[Rapture]] who do not follow the laws of the City.

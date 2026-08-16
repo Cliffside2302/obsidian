@@ -1,0 +1,1 @@
+A Greenhouse where special herbs modified by ADAM grow. These can be used in crafting.

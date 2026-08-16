@@ -1,0 +1,1 @@
+Immunity to fire. Fire Deals more damage. Emits a blast of fire on hit. Ice melts in your presence.

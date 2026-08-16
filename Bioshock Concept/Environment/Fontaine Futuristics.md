@@ -1,0 +1,1 @@
+The Birthplace of commercially available [[Plasmid]]s. Founded by [[Frank Fontaine]], it continues developing new and improving old Plasmids. Due to the never seen before effects of ADAM, the products are highly demanded and the profit is immense.

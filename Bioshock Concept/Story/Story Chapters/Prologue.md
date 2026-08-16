@@ -1,0 +1,1 @@
+Introduces the characters’ lives and their quirks. Highlights surface level characteristics which deepen as the story goes on. What are their day-to-day lives like? What are their connections to the city? Also introducing the different social classes that exist

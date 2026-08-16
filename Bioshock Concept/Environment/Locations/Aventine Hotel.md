@@ -1,0 +1,1 @@
+Pretty bland hotel with long hallways and Luxury Suites with big windows. Great view over Rapture.

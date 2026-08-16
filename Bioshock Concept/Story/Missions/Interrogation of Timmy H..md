@@ -1,0 +1,2 @@
+[[Victor Sullivan]] and [[Officer O'Malley]] capture [[Timmy H.]].
+Inside a Cellar like construction somewhere in [[Port Neptune]]. Not much light and [[Timmy H.]] is strapped to a chair for interrogation.

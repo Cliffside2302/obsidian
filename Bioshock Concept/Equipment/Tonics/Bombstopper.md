@@ -1,0 +1,1 @@
+Take less to no damage from explosions.

@@ -1,0 +1,1 @@
+The player and its companions must travel to the Archives section of the Rapture Tribune, the newspaper brand of Rapture. There it must seek for intel concerning who was behind the uprising and or something bigger to solve a certain case. Stealth mission with elements of deduction and seeking the right information.

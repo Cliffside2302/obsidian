@@ -1,0 +1,1 @@
+Radios/TV around the places of [[Rapture]] that play announcements or updates for the public.

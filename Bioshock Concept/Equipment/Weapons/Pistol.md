@@ -1,0 +1,1 @@
+R.P.D. Issued .45 1911, equippable with a flashlight or knife in secondary hand.

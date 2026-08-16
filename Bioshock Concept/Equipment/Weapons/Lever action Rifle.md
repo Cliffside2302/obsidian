@@ -1,0 +1,1 @@
+Small calibre hunting rifle. [[Vaquero]]'s Favourite.

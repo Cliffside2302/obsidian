@@ -1,0 +1,5 @@
+- Immersive Background with the logo displayed on top. Audio log is already playing a fitting recording depending on where in the story you are. The Screen should contain easter eggs like clicking on a switch or being able to pause the audio diary.
+- Dive (underwater maybe) into the Menu
+- Menu also displayed with immersive backgrounds and hovering text.
+- On click event, animation follows to a different building or whatever.
+- 

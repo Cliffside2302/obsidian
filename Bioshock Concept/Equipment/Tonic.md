@@ -1,0 +1,17 @@
+A Tonic is a product of the finest Adam processing. If injected, it grants it genetical powers. In contrary to Plasmids, Tonics mostly operate passively.
+
+- [[Bombstopper]]
+- [[Cat's Paw]]
+- [[Cold Blooded]]
+- [[Curiosity]]
+- [[Double Tap]]
+- [[Efficient Metabolism]]
+- [[Electric flesh]]
+- [[Gunslinger]]
+- [[Human Inferno]]
+- [[Lightweight]]
+- [[Ninja]]
+- [[Sport Boost]]
+- [[Stalker]]
+- [[Thieve's Gloves]]
+- [[Tracker]]

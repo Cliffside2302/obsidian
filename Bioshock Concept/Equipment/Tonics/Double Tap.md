@@ -1,0 +1,1 @@
+Increase weapon fire rate.

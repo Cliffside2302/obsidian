@@ -1,0 +1,1 @@
+Designs Lady’s shoes. Audio Diary found in Hephaestus. Wanted to kill [[Andrew Ryan]] to stop the War but failed. She wanted [[Rapture]] to thrive just like Ryan, but Ryan wasn’t there when they needed him. Her daughter became a little sister so now she seeks revenge. She meets Pablo Navarro and asks him how to build some kind of magnetic bomb.

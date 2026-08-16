@@ -1,0 +1,1 @@
+A Bar / lounge where you can smoke and enjoy a few drinks. You can rent a table, sit at the bar or have it brought to you.

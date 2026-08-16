@@ -1,0 +1,1 @@
+Equip / swap weapons faster. Fire while sprinting.

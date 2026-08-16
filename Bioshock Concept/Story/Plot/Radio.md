@@ -1,0 +1,1 @@
+Pickup Radio, Radio should NOT be lost/given away – If done so, story will alternate

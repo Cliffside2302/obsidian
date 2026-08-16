@@ -1,0 +1,1 @@
+Picture of “Rapture’s Brightest” depicts 6 people. However, a 7th one was cut out, and the original print was never seen by the public.

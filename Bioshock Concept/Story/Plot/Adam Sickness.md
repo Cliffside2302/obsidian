@@ -1,0 +1,1 @@
+The side effects of ADAM are not fully known yet. One Character will be the first suffering from ADAM sickness thus creating the first real Splicer.

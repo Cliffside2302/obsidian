@@ -1,0 +1,1 @@
+A Fiery haired woman. Tall and dressed extravagantly.

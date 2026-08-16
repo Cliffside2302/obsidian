@@ -1,0 +1,1 @@
+Equipped with Telekinesis Plasmid and 2 sharpened fans that it uses like boomerangs.

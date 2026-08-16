@@ -1,0 +1,1 @@
+Move more quietly. Make less noise to sneak up on your foes.

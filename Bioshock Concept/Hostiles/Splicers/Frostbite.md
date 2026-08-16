@@ -1,0 +1,1 @@
+Equipped with Frozen Field Tonic and slowing attacks.

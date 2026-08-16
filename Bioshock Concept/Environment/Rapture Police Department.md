@@ -1,0 +1,1 @@
+The police force of Rapture. [[Officer O'Malley]] is working there. Its job is to protect the law abiding citizens of rapture while keeping the [[Criminals]] behind bars. In Rivalry with the [[The bandit gang]]. Also much suspicion of [[Corrupt Cops]] among the ranks.

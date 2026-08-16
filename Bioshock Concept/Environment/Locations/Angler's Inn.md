@@ -1,0 +1,1 @@
+A small Inn for travellers on the waters of Neptune’s bounty. A cozy small cabin.

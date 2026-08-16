@@ -1,0 +1,1 @@
+Enemy targeting systems like cameras take longer to detect you.

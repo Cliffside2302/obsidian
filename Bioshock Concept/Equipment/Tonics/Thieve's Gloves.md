@@ -1,0 +1,1 @@
+Loots faster, better, and more - skips animations. Loots containers in a single sweep
