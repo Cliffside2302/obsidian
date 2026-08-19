@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "a482417995264c81",
+    "id": "de519ed51ce811b4",
     "type": "split",
     "children": [
       {
-        "id": "d2b155d139f2140d",
+        "id": "fe45b7f0d402c891",
         "type": "tabs",
         "children": [
           {
-            "id": "978a20f1e35987a2",
+            "id": "6c367603da23e536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment/Weapons/The Sword.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Sword"
-            }
-          },
-          {
-            "id": "45249f79f14aa211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay Mechanics/Hacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hacking"
-            }
-          },
-          {
-            "id": "5357ecef0e49ebcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Environment/Wonders of Rapture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wonders of Rapture"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a038f2ba8787fb89",
+    "id": "6317ee3c28faacc7",
     "type": "split",
     "children": [
       {
-        "id": "2556ef9f0c0a3d9d",
+        "id": "ad15865403b5d78d",
         "type": "tabs",
         "children": [
           {
-            "id": "56f93ac7c7d806db",
+            "id": "3bc809c423a73bd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +46,7 @@
             }
           },
           {
-            "id": "ff12876ea3cd5b1d",
+            "id": "314ed08927e5001b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,11 +63,14 @@
             }
           },
           {
-            "id": "0d79314f0809f9b3",
+            "id": "d0533d8e41450f1d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -112,15 +82,15 @@
     "width": 300
   },
   "right": {
-    "id": "824ac22179c09da2",
+    "id": "214e8c203c8e3e2a",
     "type": "split",
     "children": [
       {
-        "id": "93c8ae66e4f8362c",
+        "id": "f2ae0d93e735ff2b",
         "type": "tabs",
         "children": [
           {
-            "id": "bce30f413ee3fa89",
+            "id": "8dff8c81e71c483d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -138,7 +108,7 @@
             }
           },
           {
-            "id": "885ab366155aac3e",
+            "id": "b2a2cf1d6a038434",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -151,7 +121,7 @@
             }
           },
           {
-            "id": "ed5fe6a04782a1d4",
+            "id": "c9891468f363bd77",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +136,7 @@
             }
           },
           {
-            "id": "c4ccf33870391484",
+            "id": "6b2657f7c2779b54",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,7 +150,7 @@
             }
           },
           {
-            "id": "8cdb175979083b1b",
+            "id": "2c30204e770fb8d3",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -202,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,44 +181,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "5357ecef0e49ebcc",
-  "lastOpenFiles": [
-    "Gameplay Mechanics/Hacking.md",
-    "Equipment/Weapons/The Sword.md",
-    "Environment/Wonders of Rapture.md",
-    "Environment/Locations/Gemstone Hotel.md",
-    "Equipment/Weapons/Names.md",
-    "Fall of Rapture/PVE.md",
-    "Environment/Rapture Police Department.md",
-    "Gameplay Mechanics/Movement.md",
-    "Gameplay Mechanics/Research.md",
-    "The Lighthouse.md",
-    "Welcome Centre.md",
-    "Gameplay Mechanics/Dual Wield Mode.md",
-    "Gameplay Mechanics/Elemental Effects.md",
-    "Gameplay Mechanics/Skill Tree.md",
-    "Characters/Vaquero.md",
-    "Equipment/Weapons/Bolt action sniper rifle.md",
-    "Equipment/Weapons/1921 Tommy Gun.md",
-    "Equipment/Weapon.md",
-    "Equipment/Tonic.md",
-    "Equipment/Plasmid.md",
-    "Equipment/Plasmids/Houdini.md",
-    "Equipment/Weapons/Revolver.md",
-    "Equipment/Weapons/Winchester Model 1897.md",
-    "Story/Concept.md",
-    "Equipment/Weapons/Weapon.md",
-    "Equipment/Plasmids/Winter Blast.md",
-    "Environment/Landmarks",
-    "Hostiles/Splicers",
-    "Equipment/Skill Tree",
-    "Equipment/Tonics",
-    "Equipment/Plasmids",
-    "Story/Missions",
-    "Fall of Rapture",
-    "Story/Menu",
-    "Story/Plot",
-    "Story",
-    "Locations/Untitled.canvas"
-  ]
+  "active": "6c367603da23e536",
+  "lastOpenFiles": []
 }
