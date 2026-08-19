@@ -1,4 +1,4 @@
-Welcome to [[Rapture]]! This tour guide will provide you with the most known landmarks and points of interest in Rapture.
+Welcome to [[Rapture]]! This tour guide will provide you with the most known landmarks and points of interest in Rapture. If you are only here for a quick visit, make sure you at lest stop by at these attractions!
 
 Locations:
 

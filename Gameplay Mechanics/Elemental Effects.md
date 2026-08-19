@@ -1,0 +1,2 @@
+Everyone has a weakness. Splicers, Humans, even the Big Daddy has one. It is your job to find it and use it to your advantage.
+Every Enemy has one or more ammo Types or Elemental effects that it is especially vulnerable to.

@@ -6,4 +6,5 @@ Each weapon will be unique and will stay in your inventory when picked up. You c
 - [[Pistol]]
 - [[Revolver]]
 - [[Winchester Model 1897]]
+- [[The Sword]]
 - 

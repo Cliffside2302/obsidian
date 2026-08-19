@@ -11,10 +11,14 @@
             "id": "6c367603da23e536",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Equipment/Weapons/The Sword.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Sword"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equipment/Weapons/The Sword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equipment/Weapons/The Sword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Equipment/Weapons/The Sword.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,5 +189,35 @@
     }
   },
   "active": "6c367603da23e536",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Fall of Rapture/PVE.md",
+    "Gameplay Mechanics/Dual Wield Mode.md",
+    "Gameplay Mechanics/Elemental Effects.md",
+    "Gameplay Mechanics/Hacking.md",
+    "Gameplay Mechanics/Money.md",
+    "Gameplay Mechanics/Movement.md",
+    "Gameplay Mechanics/Research.md",
+    "Gameplay Mechanics/Skill Tree.md",
+    "Hostiles/Corrupt Cops.md",
+    "Hostiles/Criminals.md",
+    "Environment/Music/In the mood.md",
+    "Environment/Secrets",
+    "Environment/Wonders of Rapture.md",
+    "Environment/Fontaine Futuristics.md",
+    "Environment/Plasmid Ads.md",
+    "Environment/Public service announcements.md",
+    "Environment/Rapture.md",
+    "Environment/Rapture Police Department.md",
+    "Gameplay Mechanics/Adam.md",
+    "Equipment/Plasmids/Telekinesis.md",
+    "Equipment/Weapons/The Sword.md",
+    "Hostiles/Splicers/Nightmare Splicer.md",
+    "Equipment/Weapon.md",
+    "Equipment/Tonic.md",
+    "Equipment/Plasmid.md",
+    "Equipment/Weapons/Winchester Model 1897.md",
+    "Environment/Music/Noir.md",
+    "Environment/Music",
+    "Environment/Atmosphere"
+  ]
 }
