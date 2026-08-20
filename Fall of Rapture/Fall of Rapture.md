@@ -1,0 +1,1 @@
+Fall of [[Rapture]] is the name of the PVE Mode. It lets you fight against the horde of Ryan's or Fontaine's Splicers. Alone or teamed up with others caught in the uprising. It acts as an arcade style game mode, where you start off with nothing but your all day carry hand gun. (This might be personalized for each character. Different weapons with different advantages). 

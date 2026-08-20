@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment/Locations/Aventine Hotel.md",
+                "file": "Fall of Rapture/Fall of Rapture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aventine Hotel"
+              "title": "Fall of Rapture"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Environment/Locations/Aventine Hotel.md",
+                "file": "Hostiles/Splicer Variants/Rookie Splicer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +118,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Environment/Locations/Aventine Hotel.md",
+                "file": "Fall of Rapture/Fall of Rapture.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -170,12 +170,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,38 +186,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false
     }
   },
   "active": "6c367603da23e536",
   "lastOpenFiles": [
-    "Equipment/Plasmids/Enrage.md",
-    "Equipment/Tonics/Thieve's Gloves.md",
-    "Equipment/Tonics/Stalker.md",
-    "Equipment/Weapons/Revolver.md",
-    "Equipment/Weapons/Winchester Model 1897.md",
-    "Equipment/Weapons/The Sword.md",
-    "Equipment/Plasmid.md",
-    "Equipment/Plasmids/Security Command.md",
-    "Equipment/Plasmids/Telekinesis.md",
-    "Equipment/Plasmids/Insect Swarm.md",
-    "Equipment/Plasmids/Incinerate!.md",
-    "Equipment/Plasmids/Houdini.md",
-    "Equipment/Plasmids/Electrobolt.md",
+    "Hostiles/Criminals.md",
+    "Fall of Rapture/Fall of Rapture.md",
+    "Hostiles/The bandit gang.md",
+    "Hostiles/Splicer Variants/Frostbite.md",
+    "Hostiles/Splicer Variants/Chameleon Splicer.md",
+    "Hostiles/Splicer Variants/Splicer Variants.md",
+    "Environment/Vending Machines.md",
+    "Gameplay Mechanics/Money.md",
     "Fall of Rapture/PVE.md",
-    "Gameplay Mechanics/Dual Wield Mode.md",
+    "Gameplay Mechanics/Gameplay Mechanics.md",
+    "Hostiles/Splicer Variants/Rookie Splicer.md",
+    "Gameplay Mechanics/Gameplay Mechanics.canvas",
+    "Gameplay Mechanics/Gameplay Mechanics.base",
     "Gameplay Mechanics/Elemental Effects.md",
     "Gameplay Mechanics/Hacking.md",
-    "Gameplay Mechanics/Money.md",
-    "Gameplay Mechanics/Movement.md",
-    "Gameplay Mechanics/Research.md",
-    "Gameplay Mechanics/Skill Tree.md",
-    "Hostiles/Corrupt Cops.md",
-    "Hostiles/Criminals.md",
+    "Gameplay Mechanics/Dual Wield Mode.md",
+    "Gameplay Mechanics/Adam.md",
+    "Environment/Music/Noir.md",
     "Environment/Music/In the mood.md",
-    "Environment/Secrets",
-    "Environment/Wonders of Rapture.md",
+    "Equipment/Tonic.md",
+    "Equipment/Weapon.md",
+    "Equipment/Plasmid.md",
+    "Equipment/Weapons/1921 Tommy Gun.md",
+    "Environment/Rapture Police Department.md",
     "Environment/Fontaine Futuristics.md",
+    "Environment/Locations/Angler's Inn.md",
+    "Environment/Locations/Apollo Square.md",
+    "Environment/Locations/Archimedes Centre.md",
+    "Environment/Secrets",
     "Environment/Music",
     "Environment/Atmosphere"
   ]

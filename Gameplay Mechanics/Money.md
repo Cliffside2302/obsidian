@@ -1,0 +1,1 @@
+Money is the 2nd most important form of currency. It can be used at [[vending machines]] to buy ammo or useful items.
