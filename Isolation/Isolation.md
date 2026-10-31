@@ -1,0 +1,2 @@
+Extraction Shooter gameplay.
+Survive in the unjuristicated parts of [[Rapture]] where chaos has grown too far to control. Splicers patrol the areas in search of more [[Adam]] and resources to survive. Here, it is every man for himself.

@@ -12,7 +12,7 @@ Locations:
 - [[Fluorescent Blooms]]
 - [[Genetic Horizons]]
 - [[Hydrosphere]]
-- [[Kashmir Restaurant]]
+- [[Environment/Locations/Kashmir Restaurant]]
 - [[Kingsley Arcade]]
 - [[Palmetto]]
 - [[Port Neptune]]

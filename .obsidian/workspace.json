@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall of Rapture/Fall of Rapture.md",
+                "file": "Isolation/Isolation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall of Rapture"
+              "title": "Isolation"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall of Rapture/Fall of Rapture.md",
+                "file": "Environment/Locations/The Black Label Lounge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Environment/Locations/Aventine Hotel.md",
+                "file": "Environment/Locations/The Black Label Lounge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,9 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "388d915c173c5d76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,42 +196,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6c367603da23e536",
   "lastOpenFiles": [
-    "Hostiles/Criminals.md",
+    "Isolation/Untitled.md",
+    "Isolation/Isolation.md",
+    "Isolation/Isolation.base",
+    "Fall of Rapture/Kashmir Restaurant.md",
+    "Isolation",
     "Fall of Rapture/Fall of Rapture.md",
-    "Hostiles/The bandit gang.md",
-    "Hostiles/Splicer Variants/Frostbite.md",
-    "Hostiles/Splicer Variants/Chameleon Splicer.md",
-    "Hostiles/Splicer Variants/Splicer Variants.md",
-    "Environment/Vending Machines.md",
-    "Gameplay Mechanics/Money.md",
-    "Fall of Rapture/PVE.md",
-    "Gameplay Mechanics/Gameplay Mechanics.md",
-    "Hostiles/Splicer Variants/Rookie Splicer.md",
-    "Gameplay Mechanics/Gameplay Mechanics.canvas",
-    "Gameplay Mechanics/Gameplay Mechanics.base",
-    "Gameplay Mechanics/Elemental Effects.md",
-    "Gameplay Mechanics/Hacking.md",
-    "Gameplay Mechanics/Dual Wield Mode.md",
-    "Gameplay Mechanics/Adam.md",
-    "Environment/Music/Noir.md",
-    "Environment/Music/In the mood.md",
-    "Equipment/Tonic.md",
+    "Equipment/Plasmids/Plasmids.md",
+    "Equipment/Plasmids/Bullet Time.md",
+    "Equipment/Tonics/Tonics.md",
+    "Equipment/Plasmids/Enrage.md",
+    "Equipment/Plasmids/Electrobolt.md",
+    "Equipment/Weapons/Weapons.md",
     "Equipment/Weapon.md",
     "Equipment/Plasmid.md",
-    "Equipment/Weapons/1921 Tommy Gun.md",
-    "Environment/Rapture Police Department.md",
-    "Environment/Fontaine Futuristics.md",
-    "Environment/Locations/Angler's Inn.md",
-    "Environment/Locations/Apollo Square.md",
-    "Environment/Locations/Archimedes Centre.md",
-    "Environment/Secrets",
-    "Environment/Music",
-    "Environment/Atmosphere"
+    "Equipment/Plasmids/Plasmids.base",
+    "Equipment/Tonic.md",
+    "Tonics.md",
+    "Gameplay Mechanics/Gameplay Mechanics.md",
+    "Welcome Centre.md",
+    "The Lighthouse.md",
+    "Environment/Locations/The Black Label Lounge.md",
+    "Gameplay Mechanics/Hacking.md",
+    "Characters/Frank Fontaine.md",
+    "Obsidian Vaults/Fall of Rapture/PVE.md",
+    "Obsidian Vaults/Fall of Rapture/Fall of Rapture.md",
+    "Obsidian Vaults/Fall of Rapture",
+    "Obsidian Vaults/Equipment/Weapons/Winchester Model 1897.md",
+    "Obsidian Vaults/Equipment/Weapons/The Sword.md",
+    "Obsidian Vaults/Equipment/Weapons/Revolver.md",
+    "Obsidian Vaults/Equipment/Weapons/Pistol.md",
+    "Obsidian Vaults/Equipment/Weapons",
+    "Obsidian Vaults/Equipment/Tonics",
+    "Obsidian Vaults/Equipment/Plasmids",
+    "Obsidian Vaults/Equipment",
+    "Obsidian Vaults/Environment/Music",
+    "Obsidian Vaults/Environment/Locations",
+    "Gameplay Mechanics/Gameplay Mechanics.canvas"
   ]
 }

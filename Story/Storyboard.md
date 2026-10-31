@@ -1,7 +1,7 @@
 - [[Main Character]] gets introduced to the [[Hacking Mechanic]] by the other NPCs.
 
  - [[Frank Fontaine]] [sponsors](https://bioshock.fandom.com/wiki/Kraut_Scientist) [[Bridgid Tennenbaum]]’s Research with his smuggling ring. In exchange, he profits from the Adam Business and founds [[Fontaine Futuristics]].
-- Following some POI through the crowds at the [[Kashmir Restaurant]].
+- Following some POI through the crowds at the [[Environment/Locations/Kashmir Restaurant]].
 - At some point, 2 characters meet in the fighting McDonagh’s for a beer.
 - The side effects of ADAM are not fully known yet. One Character will be the first suffering from ADAM sickness thus creating the first real Splicer.
 - While our time in Rapture, we witness Fontaine’s rise to power which then ultimately leads to the civil war.
