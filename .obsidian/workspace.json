@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isolation/Isolation.md",
+                "file": "Storyboard/Storyboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isolation"
+              "title": "Storyboard"
             }
           },
           {
             "id": "b590370c79d132fb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.5"
+                "file": "Storyboard/Concept.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
+              "icon": "lucide-file",
+              "title": "Concept"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,38 +214,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b590370c79d132fb",
+  "active": "3bc809c423a73bd3",
   "lastOpenFiles": [
-    "Isolation/Untitled.md",
+    "Black Market.md",
+    "Splicer.md",
     "Isolation/Isolation.md",
+    "Isolation/Untitled.md",
+    "Hostiles/Splicers/Splicers.md",
+    "Hostiles/Splicers/Jockey Splicer.md",
+    "Hostiles/Splicers/Nightmare Splicer.md",
+    "Hostiles/Splicers/Orchid Splicer.md",
+    "Hostiles/Splicers/Rookie Splicer.md",
+    "Hostiles/Splicers/Wind Splicer.md",
+    "Storyboard/Plot/Adam Sickness.md",
+    "Storyboard/Concept.md",
+    "Storyboard/Storyboard.md",
+    "Storyboard/Welcome Centre.md",
+    "Environment/Rapture.md",
+    "Hostiles/Splicers/Frostbite.md",
+    "Hostiles/Splicers/Chameleon Splicer.md",
+    "Splicers.md",
+    "Story/The Lighthouse.md",
+    "Menu Draft.md",
+    "Gameplay Mechanics/Gameplay Mechanics.md",
+    "Fall of Rapture/Fall of Rapture.md",
     "Isolation/Isolation.base",
     "Fall of Rapture/Kashmir Restaurant.md",
     "Isolation",
-    "Fall of Rapture/Fall of Rapture.md",
     "Equipment/Plasmids/Plasmids.md",
     "Equipment/Plasmids/Bullet Time.md",
     "Equipment/Tonics/Tonics.md",
-    "Equipment/Plasmids/Enrage.md",
-    "Equipment/Plasmids/Electrobolt.md",
-    "Equipment/Weapons/Weapons.md",
-    "Equipment/Weapon.md",
-    "Equipment/Plasmid.md",
     "Equipment/Plasmids/Plasmids.base",
-    "Equipment/Tonic.md",
-    "Tonics.md",
-    "Gameplay Mechanics/Gameplay Mechanics.md",
-    "Welcome Centre.md",
-    "The Lighthouse.md",
-    "Environment/Locations/The Black Label Lounge.md",
-    "Gameplay Mechanics/Hacking.md",
-    "Characters/Frank Fontaine.md",
-    "Obsidian Vaults/Fall of Rapture/PVE.md",
-    "Obsidian Vaults/Fall of Rapture/Fall of Rapture.md",
     "Obsidian Vaults/Fall of Rapture",
-    "Obsidian Vaults/Equipment/Weapons/Winchester Model 1897.md",
-    "Obsidian Vaults/Equipment/Weapons/The Sword.md",
-    "Obsidian Vaults/Equipment/Weapons/Revolver.md",
-    "Obsidian Vaults/Equipment/Weapons/Pistol.md",
     "Obsidian Vaults/Equipment/Weapons",
     "Obsidian Vaults/Equipment/Tonics",
     "Obsidian Vaults/Equipment/Plasmids",

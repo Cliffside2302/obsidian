@@ -1,0 +1,1 @@
+The Black Market of Rapture is the same as any on the surface. Forbidden Goods are traded or bought at unfair prizes due to their demand and smuggled items from the surface can be more valuable than gold down here.

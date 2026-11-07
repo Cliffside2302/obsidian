@@ -1,2 +1,3 @@
 Extraction Shooter gameplay.
-Survive in the ungoverned districts of [[Rapture]], where chaos has grown too far to control. Splicers patrol the areas in search of more [[Adam]] and resources to survive. Every man for himself.
+Survive in the ungoverned districts of [[Rapture]], where chaos has grown too far to control. [[Splicers]]
+patrol the areas in search of more [[Adam]] and resources to survive. Every man for himself. You can choose what missions you want to do or with what NPCs you want to interact. Once you go out there, you are on your own and the more trouble you cause and the more resources you gather, the more splicers are going to want a piece of your loot. If you fight them off manage to survive and get back to your Safehouse, you can use that loot to buy upgrades for your gear on the [[Black Market]].
