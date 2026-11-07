@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Isolation"
             }
+          },
+          {
+            "id": "b590370c79d132fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c367603da23e536",
+  "active": "b590370c79d132fb",
   "lastOpenFiles": [
     "Isolation/Untitled.md",
     "Isolation/Isolation.md",
